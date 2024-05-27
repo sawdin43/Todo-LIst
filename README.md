@@ -33,7 +33,7 @@ Once the dependencies are installed, you can start the React + Vite application 
 ```
 npm run dev
 ```
-This will start a local development server and open the application in your default browser. If the browser does not open automatically, you can access the application by navigating to n http://localhost:5173/  in your browser.
+This will start a local development server and open the application in your default browser. If the browser does not open automatically, you can access the application by navigating to n http://localhost:5174/  in your browser.
 
 ## Additional Information
 You can customize the React + Vite application by modifying the content, styling, and adding new components according to your needs. The application utilizes React, Vite, and the specified plugins for a fast and efficient development experience.
